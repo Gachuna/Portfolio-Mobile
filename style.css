@@ -73,7 +73,7 @@ body {
 
   .head1{
     color: #172B4D;
-    margin-top: 70px;
+    margin-top: 100px;
     font-weight: 700;
     font-size: 40px;
     line-height: 52px;
@@ -107,4 +107,67 @@ body {
     border-radius: 0 0 0 50px;
 }
 
+.rect4{
+    position: absolute;
+    width: 95.58px;
+    height: 22.02px;
+    left: 352px;
+    top: 140.79px;
+    background: #EBEBFF;
+    transform: rotate(-30deg);
+}
 
+.elp11{
+    position: absolute;
+    left: 0px;
+    top: 145px;
+}
+
+.rect7{
+    position: absolute;
+    left: 127.18px;
+    top: 141.59px;
+}
+
+.elp5 {
+    position: absolute;
+    left: 132.98px;
+    top: 155.81px;
+    transform: rotate(52.97deg);
+}
+
+.elp3 {
+    position: absolute;
+    left: 383px;
+    top: 152.24px;
+}
+
+.elp12 {
+    position: absolute;
+    left: 300px;
+    top: 412px;
+}
+
+.elp13 {
+    position: absolute;
+    left: 290px;
+    top: 422px;
+}
+
+.elp4 {
+    position: absolute;
+    left: 237px;
+    top: 527.1px;
+}
+
+.rect5 {
+    position: absolute;
+    left: 194px;
+    top: 527.1px;
+}
+
+.elp15 {
+    position: absolute;
+    left: 53px;
+    top: 525px;
+}
